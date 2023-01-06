@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /remoteTelegramShell/
-python pyTelegramShellBot.py
+python pyTelegramShellBot.py &
